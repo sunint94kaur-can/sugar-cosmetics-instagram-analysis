@@ -41,9 +41,9 @@ Engagement rate = (likes + comments + shares + saves) / reach.
 No rows were removed. April 2024 and April 2025 are partial months.
 
 ## Links
-- Live dashboard: [Tableau Public link]
-- Video walkthrough: [link]
-- Presentation: /presentation
+- Live dashboard: (https://drive.google.com/file/d/1nmbUG6paYpuXludPSyd9Vbd9hywt3Go5/view?usp=drive_link)
+
+- Presentation: (https://docs.google.com/presentation/d/1jkKQyDS6-_6zsUfuVDny3VgXJxB9Alr5/edit?usp=drive_link&ouid=117517827592450342021&rtpof=true&sd=true)
 
 ## Tools
 Tableau, Excel, Canva, Zoom
